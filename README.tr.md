@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Murat KÖSE
+# 👋 Merhaba, ben Murat KÖSE
 
-I’m learning and building web applications focused on **PHP (Laravel)** and **Vue.js**.  
-I prefer small, practical and maintainable solutions.
+Web uygulamaları geliştirme üzerine çalışıyorum; ağırlıklı olarak **PHP (Laravel)** ve **Vue.js** kullanıyorum.  
+Tercihim küçük, pratik ve sürdürülebilir çözümler üretmek.
 
-[🇹🇷 Türkçe versiyon için tıklayın](./README.tr.md)
+[🌍 English version](./README.md)
 
 ---
 
-### 🧰 Technologies
+### 🧰 Kullandığım Teknolojiler
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
@@ -19,15 +19,15 @@ I prefer small, practical and maintainable solutions.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub İstatistikleri
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muratkose1126&show_icons=true&theme=transparent&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muratkose1126&layout=compact&theme=transparent)
 
 ---
 
-### 💼 Projects
-No public projects yet — I will add Laravel, Vue.js and Docker based examples here soon.
+### 💼 Projeler
+Henüz paylaşılmış bir proje yok — burada yakında Laravel, Vue.js ve Docker tabanlı örnek projeler paylaşacağım.
 
 ---
 
-📫 Contact: https://github.com/muratkose1126
+📫 İletişim: https://github.com/muratkose1126
